@@ -11,8 +11,8 @@ The project explores the theoretical and practical aspects of score-based genera
 ##  Contents
 
 - [thesis.pdf](./Claustre_Score_Based_Diffusion_Models_2025.pdf) — Final research report (Claustre_Score_Based_Diffusion_Models_2025.pdf)
-- [diffusion_model_swiss_roll.ipynb](./diffusion_model_swiss_roll.ipynb) — A complete diffusion-based generative pipeline using a contractive variance-preserving (CVP) SDE on a 2D Swiss Roll synthetic dataset.
-- [diffusion_model_mnist.ipynb](./diffusion_model_mnist.ipynb) — Extension to a real-world dataset (MNIST)generation.
+- [01-diffusion-model-swiss-roll.ipynb](./01-diffusion-model-swiss-roll.ipynb) — A complete diffusion-based generative pipeline using a contractive variance-preserving (CVP) SDE on a 2D Swiss Roll synthetic dataset.
+- [02-diffusion-model-mnist.ipynb](./02-diffusion-model-mnist.ipynb) — Extension to a real-world dataset (MNIST)generation.
 - `utils/` — (optional) Python scripts for training, SDE solvers, score computation, etc.
 ---
 ## How to Run
